@@ -9,6 +9,10 @@
 * Makes use of Page Objects.
 * Written in Java with Junit, Cucumber & Maven
 
+##Automation Scenarios
+* Initially I worked on API Automation framework added few scenarios 
+ and i extend the functionality to cover the UI Automation scenarios as well.
+ 
 ## Setup:
 * Install [Java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
 * Install Maven [Maven](https://maven.apache.org/)
