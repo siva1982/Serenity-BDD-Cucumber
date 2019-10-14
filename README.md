@@ -8,7 +8,6 @@
 * serenity.cucumber.version: 1.6.6
 * Makes use of Page Objects.
 * Written in Java with Junit, Cucumber & Maven
-* Can run test scripts in parallel
 
 ## Setup:
 * Install [Java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
