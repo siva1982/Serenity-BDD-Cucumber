@@ -1,0 +1,7 @@
+{
+  "postId": 101,
+  "id": 501,
+  "name": "Test Comment",
+  "email": "Test@test.biz",
+  "body": "This is a test body to test post operation"
+}
