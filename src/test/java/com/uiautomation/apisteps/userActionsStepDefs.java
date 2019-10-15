@@ -6,6 +6,10 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import net.thucydides.core.annotations.Steps;
 
+/**
+ * User Action Step Definitions, A wrapper class for the api calls
+ */
+
 public class userActionsStepDefs {
 
    @Steps

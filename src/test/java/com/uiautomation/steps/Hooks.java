@@ -6,6 +6,10 @@ import net.serenitybdd.core.Serenity;
 import net.thucydides.core.ThucydidesSystemProperty;
 import net.thucydides.core.pages.Pages;
 
+/**
+ * This is just a place holder class trying to do the UI automation work
+ */
+
 public class Hooks {
 
 	//@Before
@@ -19,7 +23,7 @@ public class Hooks {
 
 		//Set Property Name
 		pages.getConfiguration().getEnvironmentVariables()
-		.setProperty(ThucydidesSystemProperty.WEBDRIVER_BASE_URL.getPropertyName(),"http://datacash url");
+		.setProperty(ThucydidesSystemProperty.WEBDRIVER_BASE_URL.getPropertyName(),"http://base url place holder");
 		String url2= pages.getConfiguration().getEnvironmentVariables().getProperty(ThucydidesSystemProperty.WEBDRIVER_BASE_URL.getPropertyName());
 		Log.info("Application URL2: "+ url2);
 

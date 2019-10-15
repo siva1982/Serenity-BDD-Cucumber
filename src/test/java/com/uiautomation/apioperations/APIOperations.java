@@ -14,6 +14,10 @@ import net.thucydides.core.annotations.Step;
 import net.thucydides.core.annotations.Steps;
 import org.junit.Assert;
 
+/**
+ * Reusable class for API Operations
+ */
+
 public class APIOperations {
 
     Response response;
