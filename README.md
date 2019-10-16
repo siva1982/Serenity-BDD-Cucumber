@@ -20,7 +20,7 @@ requirement.
 * "mvn archetype:generate -Dfilter=net.serenity-bdd:serenity-cucumber-archetype" to setup project from scratch
 
 ## Run tests:
-* `mvn clean verify` OR `mvn clean verify  - Run test scripts using Chrome browser.
+* `mvn clean verify` to run test scenarios using.
 
 ## View HTML Report
 * HTML report will be generated once execution finish -projectfolder\target\site\serenity\index.html
